@@ -1,1 +1,14 @@
-
+body{
+  background-color: rgb(100, 100, 180)
+}
+h1 {
+  color: rgb(40, 40, 80)
+}
+nav{
+  border-style: double;
+  border-radius: 30px;
+  box-shadow: 10px 10px 10px rgb(170,170,170);
+  background-color: rgb( 0, 140, 140);
+  color: rgb(10, 50, 105);
+  padding: 10px;
+}
